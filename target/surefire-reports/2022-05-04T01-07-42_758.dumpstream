@@ -1,0 +1,15 @@
+# Created at 2022-05-04T01:07:58.849
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-05-04T01:07:58.851
+WARNING: Illegal reflective access by org.codehaus.groovy.vmplugin.v9.Java9 (file:/C:/Users/DK/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar) to constructor java.lang.AssertionError(java.lang.String)
+
+# Created at 2022-05-04T01:07:58.852
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.vmplugin.v9.Java9
+
+# Created at 2022-05-04T01:07:58.853
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-05-04T01:07:58.855
+WARNING: All illegal access operations will be denied in a future release
+

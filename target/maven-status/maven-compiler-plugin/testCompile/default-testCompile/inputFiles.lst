@@ -1,0 +1,17 @@
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\create\OrdersCreateTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithWrongCourierIdTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithWrongOrderIdTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\getList\OrderGetTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\login\LoginWithoutMandatoryFieldsTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\accept\OrderAcceptTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithoutOrderTrackTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\login\LoginTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\getList\OrdersListGetTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\create\CreateSameCourierTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\order\accept\OrderAcceptAgainTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierWithoutIdTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\create\CreateNewCourierWithAllFieldsTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierWithWrongIdTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\login\LoginWithWrongFieldsTest.java
+D:\Sprint_3-main\Sprint_3-main\src\test\java\ru\praktikum_services\qa_scooter\courier\create\CreateNewCourierWithoutMandatoryFieldsTest.java

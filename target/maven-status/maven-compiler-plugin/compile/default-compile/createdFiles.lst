@@ -1,0 +1,7 @@
+ru\praktikum_services\qa_scooter\model\Order.class
+ru\praktikum_services\qa_scooter\client\CourierClient.class
+ru\praktikum_services\qa_scooter\client\RestAssuredClient.class
+ru\praktikum_services\qa_scooter\apidata\EndPoints.class
+ru\praktikum_services\qa_scooter\client\OrderClient.class
+ru\praktikum_services\qa_scooter\model\CourierCredentials.class
+ru\praktikum_services\qa_scooter\model\Courier.class

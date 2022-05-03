@@ -1,0 +1,17 @@
+ru\praktikum_services\qa_scooter\courier\create\CreateNewCourierWithoutMandatoryFieldsTest.class
+ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithWrongCourierIdTest.class
+ru\praktikum_services\qa_scooter\order\create\OrdersCreateTest.class
+ru\praktikum_services\qa_scooter\courier\create\CreateNewCourierWithAllFieldsTest.class
+ru\praktikum_services\qa_scooter\courier\login\LoginWithWrongFieldsTest.class
+ru\praktikum_services\qa_scooter\order\getList\OrderGetTest.class
+ru\praktikum_services\qa_scooter\order\accept\OrderAcceptAgainTest.class
+ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierWithWrongIdTest.class
+ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithoutOrderTrackTest.class
+ru\praktikum_services\qa_scooter\courier\login\LoginTest.class
+ru\praktikum_services\qa_scooter\order\getList\OrdersListGetTest.class
+ru\praktikum_services\qa_scooter\courier\create\CreateSameCourierTest.class
+ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierWithoutIdTest.class
+ru\praktikum_services\qa_scooter\order\accept\OrderAcceptWithWrongOrderIdTest.class
+ru\praktikum_services\qa_scooter\order\accept\OrderAcceptTest.class
+ru\praktikum_services\qa_scooter\courier\login\LoginWithoutMandatoryFieldsTest.class
+ru\praktikum_services\qa_scooter\courier\delete\DeleteCourierTest.class

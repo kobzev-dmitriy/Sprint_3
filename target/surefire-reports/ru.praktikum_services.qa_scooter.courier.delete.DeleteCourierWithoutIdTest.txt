@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum_services.qa_scooter.courier.delete.DeleteCourierWithoutIdTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.191 s <<< FAILURE! - in ru.praktikum_services.qa_scooter.courier.delete.DeleteCourierWithoutIdTest
+checkCourierCanBeDeleted(ru.praktikum_services.qa_scooter.courier.delete.DeleteCourierWithoutIdTest)  Time elapsed: 0.168 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+	at ru.praktikum_services.qa_scooter.courier.delete.DeleteCourierWithoutIdTest.checkCourierCanBeDeleted(DeleteCourierWithoutIdTest.java:31)
+

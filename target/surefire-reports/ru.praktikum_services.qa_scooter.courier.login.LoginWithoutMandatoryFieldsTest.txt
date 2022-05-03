@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum_services.qa_scooter.courier.login.LoginWithoutMandatoryFieldsTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 60.362 s <<< FAILURE! - in ru.praktikum_services.qa_scooter.courier.login.LoginWithoutMandatoryFieldsTest
+checkNewCourierCanNotLoginWithoutMandatoryFields[0: в теле запроса отсутствует поле: ru.praktikum_services.qa_scooter.model.CourierCredentials@2f4b2ee3](ru.praktikum_services.qa_scooter.courier.login.LoginWithoutMandatoryFieldsTest)  Time elapsed: 60.166 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <504>.
+
+	at ru.praktikum_services.qa_scooter.courier.login.LoginWithoutMandatoryFieldsTest.checkNewCourierCanNotLoginWithoutMandatoryFields(LoginWithoutMandatoryFieldsTest.java:51)
+
